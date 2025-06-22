@@ -1,0 +1,6 @@
+# Ignore all "out" folders at any depth
+**/out/
+*.class
+
+
+
